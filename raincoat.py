@@ -3,6 +3,8 @@ import requests
 import sys
 from typing import Any, Dict, Union
 
+from api_key import getApiKey
+
 
 """
 Raincoat
@@ -14,7 +16,7 @@ A script to suggest clothing based on the weather
 """
 
 
-API_KEY = "671edef763a31f31260e13f06c530ad4"
+API_KEY = getApiKey()
 COUNTRY_CODE = "us"
 ICON_URL = "https://openweathermap.org/img/w/{icon_code}.png"
 
