@@ -1,0 +1,20 @@
+Planning raincoat
+
+What I want to do is make decisions based on the weather.
+
+Seems simple eough.  The complication comes from more complex weather.
+
+For example, if it's raining, you'd want:
+    - pants (preferably waterproof)
+    - a raincoat
+    - a shirt (doesn't really matter what type if you've got a raincoat)
+
+However, if it's hot and rainy, like it can be in Hawaii, you'd want:
+    - shorts
+    - a raincoat (ideally a light one)
+    - a shirt (probably short sleeves)
+
+
+Also, remember to build in iterations.  Don't solve the whole problem at once.
+
+BUT, design in such a way that you can easily update/upgrade
